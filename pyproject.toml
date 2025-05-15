@@ -6,7 +6,7 @@ readme = "README.md"
 authors = [{ name = "Pinaxai", email = "hello@pinax.tech" }]
 
 dependencies = [
-  "pinaxai[aws]==1.0.0",
+  "pinaxai[aws]==1.0.1",
   "alembic",
   "beautifulsoup4",
   "duckduckgo-search",
