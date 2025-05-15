@@ -54,6 +54,7 @@ export EXA_API_KEY=***
 3. Start the workspace:
 
 ```sh
+pinaxai ws --help
 pinaxai ws up
 ```
 
